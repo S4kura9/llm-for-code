@@ -14,5 +14,5 @@
 ## Development of LLM for coding
 | Name|Date                                         |Link                                     |method |
 |----------------------|--------------------------------|-------------------------------------------------|-----|
-|Codex|2021.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)| da |
-
+|Codex|2021.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)| 预训练+微调 |
+|Code Llama|2023.8|[Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)|预训练+微调|
