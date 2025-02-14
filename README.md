@@ -15,4 +15,7 @@
 | Name|Date                                         |Link                                     |method |
 |----------------------|--------------------------------|-------------------------------------------------|-----|
 |Codex|2021.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)| 预训练+微调 |
-|Code Llama|2023.8|[Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)|预训练+微调|
+|AlphaCode|2022.3|[Competition-Level Code Generation withAlphaCode](https://www.semanticscholar.org/paper/Competition-level-code-generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)| 预训练+微调|
+|CodeGeeX|2023.8|[CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X](https://arxiv.org/abs/2303.17568)| 预训练+微调|
+|PET|2021?|[Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676)|指令微调|
+|Code Llama|2023.8|[Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)||
