@@ -2,7 +2,7 @@
 ## Collection on Large Language Models for Code Generation
 
 
-## Development of LLM
+## LLM
 | Name|Date                                         |Link                                     |method |
 |----------------------|--------------------------------|-------------------------------------------------|-----|
 |Transformer|2017.6|[Attention is all you need](https://arxiv.org/abs/1706.03762)|attention|
@@ -12,7 +12,7 @@
 |T5|2019.11|[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)|
 |GPT-3|2020.5|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) |few-shot+不做梯度更新(不微调) |
 
-## Development of LLM for coding
+## LLM for coding
 | Name|Date                                         |Link                                     |method |
 |----------------------|--------------------------------|-------------------------------------------------|-----|
 |Codex|2021.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)| 预训练+微调 |
@@ -27,3 +27,10 @@
 |RAG|2020.5|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)||
 |MetaGPT|2023.8|[MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)|多智能体|
 |MAD|2023.5|[Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)|多智能体|
+
+## LLM for MILP
+| Name|Date                                         |Link                                     |method |
+|----------------------|--------------------------------|-------------------------------------------------|-----|
+|OptiMUS|2023.11|[OptiMUS: Optimization Modeling Using MIP Solvers and large language models](https://arxiv.org/abs/2310.06116)||
+|FunSearch|2023.11|[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)|FunSearch架构|
+|EOH|2024.1|[Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model](https://arxiv.org/abs/2401.02051)|EOH架构|
