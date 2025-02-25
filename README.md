@@ -34,6 +34,7 @@
 |OptiMUS|2023.11|[OptiMUS: Optimization Modeling Using MIP Solvers and large language models](https://arxiv.org/abs/2310.06116)|
 |FunSearch|2023.11|[Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)|
 |EOH|2024.1|[Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model](https://arxiv.org/abs/2401.02051)|
-|待完善|2024.11|[ TOWARDS FOUNDATION MODELS FOR MIXED INTE GER LINEAR PROGRAMMING](https://arxiv.org/abs/2410.08288)|
-|待完善|2023.11|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)|
-|Ecole待完善|2020.11|[Ecole: A Gym-like Library for Machine Learning in Combinatorial Optimization Solvers](https://arxiv.org/abs/2011.06069)|
+|MILP-Evolve|2024.11|[ TOWARDS FOUNDATION MODELS FOR MIXED INTE GER LINEAR PROGRAMMING](https://arxiv.org/abs/2410.08288)|
+|OPRO|2023.9|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)|
+|Ecole|2020.11|[Ecole: A Gym-like Library for Machine Learning in Combinatorial Optimization Solvers](https://arxiv.org/abs/2011.06069)|
+|PoH|2025.2|[planning of heuristics: strategic planning on large language models with Monte Carlo Tree Search for Automating Heuristic Optimization ](https://arxiv.org/abs/2502.11422)|
